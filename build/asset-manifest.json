@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-deploy/static/js/main.fdba88f5.js",
+    "index.html": "/react-deploy/index.html",
+    "main.fdba88f5.js.map": "/react-deploy/static/js/main.fdba88f5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fdba88f5.js"
+  ]
+}
